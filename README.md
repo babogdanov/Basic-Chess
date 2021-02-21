@@ -1,4 +1,4 @@
-# Basic-Chess
+# Basic Chess
 
 **Motivation**
 
