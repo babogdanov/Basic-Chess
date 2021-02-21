@@ -24,6 +24,8 @@ You can inspect the logic of the project in the classes in the src folder. If yo
 
 **Credit** 
 
-General ideahow to design the classes and their relationships: https://www.geeksforgeeks.org/design-a-chess-game/.
+General idea how to design the classes and their relationships: https://www.geeksforgeeks.org/design-a-chess-game/.
+
 Comprehensive information about all of the rules of chess: https://en.wikipedia.org/wiki/Chess
+
 A class with font colors to make the console visualisation look way nicer: https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
