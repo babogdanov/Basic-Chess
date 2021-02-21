@@ -2,7 +2,7 @@
 
 **Motivation**
 
-I wrote this version of chess more than a year after the first one (that can be found in my Simplified-Chess repo). I did it to practice my OOP and Data Structures and Algorithms skills and also to compare my knowledge to what I knew when writing the first version.
+I developed this version of chess more than a year after the first one (that can be found in my Simplified-Chess repo). I did it to practice my OOP and Data Structures and Algorithms skills and also to compare my knowledge to what I knew when creating the first version.
 
 **Technologies used**
 
